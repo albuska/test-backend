@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "author": "John Doe",
+    "title": "The Mystery of the Lost Key",
+    "reviews": ["Great book!", "Highly recommended."],
+    "year": 2024,
+    "isNew": true
+  },
+  {
+    "id": 2,
+    "author": "Jane Smith",
+    "title": "Journey to the Unknown",
+    "reviews": ["Fascinating read.", "Couldn't put it down!"],
+    "year": 2018,
+    "isNew": false
+  },
+  {
+    "id": 3,
+    "author": "Mark Johnson",
+    "title": "Secrets of the Universe",
+    "reviews": ["Mind-blowing!", "A must-read for everyone."],
+    "year": 2020,
+    "isNew": false
+  },
+  {
+    "id": 4,
+    "author": "Emily Brown",
+    "title": "The Enchanted Forest",
+    "reviews": ["Magical adventure!", "Perfect for children."],
+    "year": 2017,
+    "isNew": false
+  },
+  {
+    "id": 5,
+    "author": "David Lee",
+    "title": "Coding for Beginners",
+    "reviews": ["Clear and concise.", "Great for beginners."],
+    "year": 2019,
+    "isNew": false
+  },
+  {
+    "id": 6,
+    "author": "Sarah White",
+    "title": "Cooking with Love",
+    "reviews": ["Delicious recipes!", "Highly recommend for food lovers."],
+    "year": 2016,
+    "isNew": false
+  },
+  {
+    "id": 7,
+    "author": "Michael Green",
+    "title": "The Art of Negotiation",
+    "reviews": ["Insightful read.", "Useful strategies."],
+    "year": 2021,
+    "isNew": false
+  },
+  {
+    "id": 8,
+    "author": "Rachel Turner",
+    "title": "Beyond the Horizon",
+    "reviews": ["Captivating!", "Couldn't stop reading."],
+    "year": 2014,
+    "isNew": false
+  },
+  {
+    "id": 9,
+    "author": "Peter Clark",
+    "title": "The Science of Happiness",
+    "reviews": ["Life-changing!", "Practical advice."],
+    "year": 2024,
+    "isNew": true
+  },
+  {
+    "id": 10,
+    "author": "Olivia Martinez",
+    "title": "The Power of Positive Thinking",
+    "reviews": ["Transformative!", "Inspirational."],
+    "year": 2022,
+    "isNew": false
+  }
+]
